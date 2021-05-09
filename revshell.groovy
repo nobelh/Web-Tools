@@ -1,3 +1,6 @@
+//Great for use on Windows implementations of Jenkins.
+//Run on Jenkings Script Console.
+//Created by Chris Frohoff
 String host="localhost";
 int port=8044;
 String cmd="cmd.exe";
